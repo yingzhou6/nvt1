@@ -11,5 +11,3 @@ dash==2.6.1
 dash_bootstrap_components==1.2.1
 pandas-datareader==0.10.0
 plotly>=2.0.9
-Footer
-© 2022 GitHub, Inc.
